@@ -1,0 +1,72 @@
+AGENDA:
+--------
+WHAT IS VPC AND WHY VPC  - 1
+HDFC BANK     --  2
+VPC Architecture - 3
+AGENDA - BASICS    - 4
+VPC PROJECT - 5
+
+ASSIGNMENT - 6 
+
+
+Network Engineering: VPC - Virtual private Cloud : "SOLUTION ARCHITECT"
+------------------------------------------------   ==================== 
+SDLC
+2-TIER  - WEB OR APP + DB 
+3-TIER ARCHITECTURE - WEB + APP + DB   ===   PUBLIC (SUBNET) + PRIVATE (SUBNET)
+
+1/2 installation + 1/2 configuration   =   2/2 checks passed  ===   healthy server
+
+
+IP:
+10.290.15.78  - wrong
+178.156.87.98 - right
+10.20.30.45   - right
+ip range = 0 - 255
+
+
+Public ip and Private ip:
+------------------------
+public ip -  connect + globally unique - Network interface - global team - single db
+private ip - Application specific - host to host to connect connections
+
+IPv4  -  Numerical values alone allowed  32-bit  - 215 crores ip allowed to assign 
+IPv6  -  p10.p20.p30.p45   -  128 -bit   = 850 crores - on-progress ... 
+
+
+CIDR Calculator: Private ip 
+---------------------------
+10.0.0.0/32   -   1 ip
+10.0.0.0/24   -   256 ip
+10.0.0.0/16   - 65536 ips
+
+difference = total bit size of ipv4    -   cidr range    =        
+          = 32    -  24     =     8        => 2 to the power of the cidr diff value 8 
+                                           => 256 
+   
+2,147,483,648  - 214 crores - 
+
+
+MONOLYTHIC VS MICROSERVICES ARCHITECTURE:
+----------------------------------------
+
+
+public machine:
+13.233.204.161
+Administrator
+ajPPUSMe@;.lC-9E.3TJr5;k7wlpemgq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
